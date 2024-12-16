@@ -1,0 +1,374 @@
+ID Cliente,Nombre,Dirección,Teléfono,Email,Fecha de Nacimiento,Ciudad
+C224,Ana Martínez,Calle 1 N°202,+595 953 262 819,cliente1@clinica.com.py,1985-12-09,Asunción
+C285,José Torres,Calle 2 N°535,+595 960 780 260,cliente2@clinica.com.py,1992-08-25,Luque
+C135,Pedro López,Calle 3 N°960,+595 967 900 497,cliente3@clinica.com.py,1979-03-03,Asunción
+C469,Luis Ramírez,Calle 4 N°370,+595 920 915 603,cliente4@clinica.com.py,2001-12-27,Asunción
+C170,Valentina Díaz,Calle 5 N°206,+595 907 234 294,cliente5@clinica.com.py,1974-02-13,Asunción
+C219,Lucía Morales,Calle 6 N°171,+595 916 739 132,cliente6@clinica.com.py,2002-04-05,Luque
+C530,Pedro López,Calle 7 N°800,+595 947 559 982,cliente7@clinica.com.py,2002-08-29,Luque
+C415,Ana Martínez,Calle 8 N°120,+595 985 474 121,cliente8@clinica.com.py,2003-11-12,Asunción
+C543,Miguel Álvarez,Calle 9 N°714,+595 929 137 329,cliente9@clinica.com.py,1990-09-20,Asunción
+C234,José Torres,Calle 10 N°221,+595 950 537 875,cliente10@clinica.com.py,1996-01-20,Asunción
+C549,Carlos González,Calle 11 N°566,+595 926 126 325,cliente11@clinica.com.py,1997-10-30,Luque
+C457,Ana Martínez,Calle 12 N°314,+595 920 897 708,cliente12@clinica.com.py,2002-06-23,Asunción
+C339,Ana Martínez,Calle 13 N°430,+595 927 978 580,cliente13@clinica.com.py,1975-02-06,Asunción
+C319,Miguel Álvarez,Calle 14 N°558,+595 968 928 915,cliente14@clinica.com.py,2002-11-09,Capiatá
+C081,Sofía Pérez,Calle 15 N°187,+595 918 615 646,cliente15@clinica.com.py,1983-07-25,Asunción
+C028,Miguel Álvarez,Calle 16 N°472,+595 963 148 611,cliente16@clinica.com.py,1998-11-11,Luque
+C570,Sofía Pérez,Calle 17 N°199,+595 916 271 319,cliente17@clinica.com.py,1986-08-27,Asunción
+C002,Sofía Pérez,Calle 18 N°971,+595 929 576 145,cliente18@clinica.com.py,1985-03-06,Asunción
+C345,Luis Ramírez,Calle 19 N°763,+595 905 198 991,cliente19@clinica.com.py,1989-07-26,Asunción
+C477,Luis Ramírez,Calle 20 N°230,+595 936 379 448,cliente20@clinica.com.py,1997-10-14,Luque
+C478,María Fernández,Calle 21 N°761,+595 945 280 706,cliente21@clinica.com.py,1997-01-30,Capiatá
+C054,Valentina Díaz,Calle 22 N°408,+595 998 799 215,cliente22@clinica.com.py,2004-01-10,Capiatá
+C331,Valentina Díaz,Calle 23 N°869,+595 962 352 260,cliente23@clinica.com.py,2003-10-27,Asunción
+C295,Carlos González,Calle 24 N°443,+595 966 227 117,cliente24@clinica.com.py,1999-03-09,Luque
+C142,Valentina Díaz,Calle 25 N°591,+595 924 834 665,cliente25@clinica.com.py,1975-07-13,Asunción
+C108,Luis Ramírez,Calle 26 N°513,+595 957 422 971,cliente26@clinica.com.py,1978-04-13,Asunción
+C259,María Fernández,Calle 27 N°905,+595 945 891 725,cliente27@clinica.com.py,1996-07-02,Capiatá
+C431,María Fernández,Calle 28 N°485,+595 931 953 762,cliente28@clinica.com.py,2002-04-26,Asunción
+C303,Sofía Pérez,Calle 29 N°291,+595 965 738 254,cliente29@clinica.com.py,1975-09-07,Asunción
+C292,Miguel Álvarez,Calle 30 N°376,+595 901 884 203,cliente30@clinica.com.py,1977-01-19,Asunción
+C058,Carlos González,Calle 31 N°260,+595 932 492 910,cliente31@clinica.com.py,1995-09-22,Asunción
+C275,Sofía Pérez,Calle 32 N°559,+595 947 138 576,cliente32@clinica.com.py,2000-06-28,Asunción
+C599,Miguel Álvarez,Calle 33 N°413,+595 941 858 637,cliente33@clinica.com.py,1979-09-28,Asunción
+C101,Valentina Díaz,Calle 34 N°121,+595 998 917 507,cliente34@clinica.com.py,2000-06-04,Asunción
+C300,Sofía Pérez,Calle 35 N°352,+595 912 927 605,cliente35@clinica.com.py,1995-04-14,Capiatá
+C152,Pedro López,Calle 36 N°847,+595 906 924 135,cliente36@clinica.com.py,1997-07-26,Capiatá
+C379,Valentina Díaz,Calle 37 N°956,+595 944 119 420,cliente37@clinica.com.py,1986-03-24,Asunción
+C154,Miguel Álvarez,Calle 38 N°660,+595 907 611 499,cliente38@clinica.com.py,1991-08-12,Asunción
+C461,Carlos González,Calle 39 N°574,+595 913 982 570,cliente39@clinica.com.py,2002-05-09,Asunción
+C522,Miguel Álvarez,Calle 40 N°158,+595 914 191 453,cliente40@clinica.com.py,1974-04-17,Asunción
+C032,Sofía Pérez,Calle 41 N°610,+595 965 899 826,cliente41@clinica.com.py,1976-06-05,Asunción
+C580,Sofía Pérez,Calle 42 N°781,+595 962 953 150,cliente42@clinica.com.py,1988-11-08,Luque
+C460,Ana Martínez,Calle 43 N°575,+595 924 797 674,cliente43@clinica.com.py,1985-04-19,Asunción
+C106,Carlos González,Calle 44 N°799,+595 961 224 249,cliente44@clinica.com.py,1990-09-10,Asunción
+C378,Lucía Morales,Calle 45 N°882,+595 957 669 441,cliente45@clinica.com.py,1991-02-16,Asunción
+C276,Valentina Díaz,Calle 46 N°289,+595 948 791 781,cliente46@clinica.com.py,1995-12-24,Asunción
+C038,María Fernández,Calle 47 N°786,+595 969 882 153,cliente47@clinica.com.py,1980-09-18,Fernando de la Mora
+C210,Carlos González,Calle 48 N°662,+595 959 712 363,cliente48@clinica.com.py,1987-03-23,Capiatá
+C066,María Fernández,Calle 49 N°975,+595 952 671 719,cliente49@clinica.com.py,1980-06-03,Asunción
+C405,Carlos González,Calle 50 N°666,+595 904 202 295,cliente50@clinica.com.py,1978-01-22,Capiatá
+C056,Carlos González,Calle 51 N°343,+595 905 976 983,cliente51@clinica.com.py,1980-01-14,Asunción
+C485,Miguel Álvarez,Calle 52 N°931,+595 993 146 966,cliente52@clinica.com.py,1989-06-02,Capiatá
+C238,Carlos González,Calle 53 N°604,+595 954 919 755,cliente53@clinica.com.py,2003-04-28,Capiatá
+C487,Ana Martínez,Calle 54 N°230,+595 912 469 735,cliente54@clinica.com.py,1988-04-19,Asunción
+C301,Lucía Morales,Calle 55 N°584,+595 929 758 756,cliente55@clinica.com.py,1989-01-09,Asunción
+C528,Sofía Pérez,Calle 56 N°918,+595 962 886 703,cliente56@clinica.com.py,1976-04-23,Asunción
+C053,José Torres,Calle 57 N°746,+595 957 445 840,cliente57@clinica.com.py,1986-09-09,Asunción
+C240,María Fernández,Calle 58 N°120,+595 989 216 929,cliente58@clinica.com.py,1984-11-02,Luque
+C490,Sofía Pérez,Calle 59 N°940,+595 922 226 492,cliente59@clinica.com.py,1977-08-16,Asunción
+C520,José Torres,Calle 60 N°266,+595 911 740 157,cliente60@clinica.com.py,1988-09-04,Asunción
+C348,Lucía Morales,Calle 61 N°373,+595 900 850 901,cliente61@clinica.com.py,1982-04-09,Capiatá
+C573,Lucía Morales,Calle 62 N°487,+595 995 737 217,cliente62@clinica.com.py,1977-07-26,Fernando de la Mora
+C471,María Fernández,Calle 63 N°700,+595 947 700 587,cliente63@clinica.com.py,1983-05-11,Asunción
+C281,María Fernández,Calle 64 N°415,+595 900 371 288,cliente64@clinica.com.py,1976-01-30,Asunción
+C491,Lucía Morales,Calle 65 N°113,+595 963 546 680,cliente65@clinica.com.py,1986-07-01,Asunción
+C023,José Torres,Calle 66 N°341,+595 921 960 346,cliente66@clinica.com.py,2003-06-01,Asunción
+C207,Carlos González,Calle 67 N°876,+595 966 175 253,cliente67@clinica.com.py,1992-04-03,Fernando de la Mora
+C440,Valentina Díaz,Calle 68 N°445,+595 915 534 185,cliente68@clinica.com.py,1978-02-01,Asunción
+C326,Pedro López,Calle 69 N°664,+595 956 384 319,cliente69@clinica.com.py,2001-02-19,Asunción
+C139,Sofía Pérez,Calle 70 N°997,+595 968 146 193,cliente70@clinica.com.py,1982-04-26,Asunción
+C503,Miguel Álvarez,Calle 71 N°439,+595 961 552 303,cliente71@clinica.com.py,1989-12-07,Asunción
+C327,Sofía Pérez,Calle 72 N°191,+595 915 317 573,cliente72@clinica.com.py,2002-06-21,Luque
+C271,Miguel Álvarez,Calle 73 N°466,+595 947 440 650,cliente73@clinica.com.py,1990-01-04,Capiatá
+C539,José Torres,Calle 74 N°554,+595 932 353 833,cliente74@clinica.com.py,1993-11-24,Asunción
+C332,Miguel Álvarez,Calle 75 N°527,+595 922 861 621,cliente75@clinica.com.py,1989-04-28,Asunción
+C114,María Fernández,Calle 76 N°608,+595 968 199 901,cliente76@clinica.com.py,1986-01-21,Asunción
+C362,Valentina Díaz,Calle 77 N°875,+595 951 322 861,cliente77@clinica.com.py,1995-05-12,Fernando de la Mora
+C286,Valentina Díaz,Calle 78 N°134,+595 918 541 707,cliente78@clinica.com.py,1982-03-16,Capiatá
+C182,María Fernández,Calle 79 N°305,+595 900 424 615,cliente79@clinica.com.py,1999-07-04,Asunción
+C542,Ana Martínez,Calle 80 N°180,+595 915 891 435,cliente80@clinica.com.py,1992-12-25,Luque
+C121,José Torres,Calle 81 N°661,+595 901 596 995,cliente81@clinica.com.py,1982-11-18,Luque
+C204,Ana Martínez,Calle 82 N°971,+595 931 574 951,cliente82@clinica.com.py,1998-05-04,Asunción
+C226,Ana Martínez,Calle 83 N°487,+595 923 789 774,cliente83@clinica.com.py,1990-08-10,Fernando de la Mora
+C586,Sofía Pérez,Calle 84 N°101,+595 932 790 526,cliente84@clinica.com.py,1993-03-19,Asunción
+C097,Lucía Morales,Calle 85 N°489,+595 911 934 676,cliente85@clinica.com.py,1980-04-02,Asunción
+C279,Sofía Pérez,Calle 86 N°665,+595 932 267 941,cliente86@clinica.com.py,1989-05-22,Asunción
+C541,Lucía Morales,Calle 87 N°205,+595 942 655 384,cliente87@clinica.com.py,1999-11-24,Asunción
+C260,Pedro López,Calle 88 N°871,+595 912 111 706,cliente88@clinica.com.py,1998-06-04,Asunción
+C453,Miguel Álvarez,Calle 89 N°921,+595 945 997 352,cliente89@clinica.com.py,1999-05-06,Luque
+C481,Lucía Morales,Calle 90 N°576,+595 934 826 948,cliente90@clinica.com.py,1989-03-09,Asunción
+C466,María Fernández,Calle 91 N°802,+595 989 875 704,cliente91@clinica.com.py,1993-10-02,Luque
+C432,Sofía Pérez,Calle 92 N°501,+595 925 701 517,cliente92@clinica.com.py,1995-09-30,Asunción
+C080,José Torres,Calle 93 N°829,+595 906 295 925,cliente93@clinica.com.py,1999-05-30,Asunción
+C232,Miguel Álvarez,Calle 94 N°655,+595 974 512 475,cliente94@clinica.com.py,1999-04-14,Asunción
+C581,Pedro López,Calle 95 N°261,+595 935 828 376,cliente95@clinica.com.py,1999-07-23,Asunción
+C202,Lucía Morales,Calle 96 N°301,+595 935 493 968,cliente96@clinica.com.py,1997-03-13,Luque
+C091,Pedro López,Calle 97 N°369,+595 972 291 838,cliente97@clinica.com.py,1976-06-21,Asunción
+C103,José Torres,Calle 98 N°962,+595 948 198 647,cliente98@clinica.com.py,1982-02-18,Asunción
+C566,Ana Martínez,Calle 99 N°915,+595 981 195 763,cliente99@clinica.com.py,1999-06-19,Asunción
+C110,Valentina Díaz,Calle 100 N°370,+595 922 289 835,cliente100@clinica.com.py,1983-09-09,Luque
+C138,José Torres,Calle 101 N°555,+595 936 879 468,cliente101@clinica.com.py,1982-08-09,Fernando de la Mora
+C094,Luis Ramírez,Calle 102 N°561,+595 954 624 378,cliente102@clinica.com.py,2002-12-08,Luque
+C278,José Torres,Calle 103 N°826,+595 988 966 972,cliente103@clinica.com.py,1992-10-10,Asunción
+C347,Pedro López,Calle 104 N°351,+595 929 372 980,cliente104@clinica.com.py,1996-11-26,Asunción
+C257,María Fernández,Calle 105 N°801,+595 961 695 979,cliente105@clinica.com.py,1980-05-13,Asunción
+C220,Sofía Pérez,Calle 106 N°395,+595 988 441 496,cliente106@clinica.com.py,1991-03-21,Asunción
+C567,María Fernández,Calle 107 N°824,+595 958 118 276,cliente107@clinica.com.py,1978-04-26,Asunción
+C227,Pedro López,Calle 108 N°819,+595 911 544 332,cliente108@clinica.com.py,1983-11-12,Asunción
+C102,Sofía Pérez,Calle 109 N°848,+595 918 175 364,cliente109@clinica.com.py,1975-10-09,Asunción
+C100,Luis Ramírez,Calle 110 N°437,+595 970 895 817,cliente110@clinica.com.py,1987-02-25,Asunción
+C089,Valentina Díaz,Calle 111 N°978,+595 994 483 663,cliente111@clinica.com.py,1976-01-08,Capiatá
+C060,Miguel Álvarez,Calle 112 N°152,+595 982 605 466,cliente112@clinica.com.py,1988-07-08,Asunción
+C315,Pedro López,Calle 113 N°891,+595 915 984 168,cliente113@clinica.com.py,1980-03-02,Asunción
+C552,Lucía Morales,Calle 114 N°316,+595 998 495 124,cliente114@clinica.com.py,1978-12-13,Luque
+C215,Pedro López,Calle 115 N°863,+595 951 990 568,cliente115@clinica.com.py,1980-10-22,Asunción
+C181,Pedro López,Calle 116 N°287,+595 952 250 243,cliente116@clinica.com.py,2000-08-07,Luque
+C493,Sofía Pérez,Calle 117 N°479,+595 956 138 208,cliente117@clinica.com.py,1994-05-23,Asunción
+C040,Carlos González,Calle 118 N°592,+595 952 141 285,cliente118@clinica.com.py,2002-01-14,Asunción
+C359,José Torres,Calle 119 N°140,+595 938 497 322,cliente119@clinica.com.py,2000-06-04,Capiatá
+C105,Carlos González,Calle 120 N°256,+595 904 262 314,cliente120@clinica.com.py,2000-02-03,Capiatá
+C366,Luis Ramírez,Calle 121 N°114,+595 992 334 942,cliente121@clinica.com.py,1993-10-08,Luque
+C565,Lucía Morales,Calle 122 N°912,+595 917 850 687,cliente122@clinica.com.py,1988-10-28,Asunción
+C079,Valentina Díaz,Calle 123 N°164,+595 908 173 591,cliente123@clinica.com.py,1988-04-15,Asunción
+C001,Ana Martínez,Calle 124 N°956,+595 916 352 329,cliente124@clinica.com.py,1990-06-30,Asunción
+C449,Luis Ramírez,Calle 125 N°938,+595 906 273 752,cliente125@clinica.com.py,1976-03-31,Asunción
+C213,Ana Martínez,Calle 126 N°620,+595 939 269 492,cliente126@clinica.com.py,1984-06-22,Fernando de la Mora
+C217,Ana Martínez,Calle 127 N°443,+595 949 894 733,cliente127@clinica.com.py,1985-07-12,Asunción
+C221,Valentina Díaz,Calle 128 N°228,+595 965 616 128,cliente128@clinica.com.py,1997-03-02,Fernando de la Mora
+C574,María Fernández,Calle 129 N°747,+595 936 521 438,cliente129@clinica.com.py,1979-04-14,Asunción
+C333,Carlos González,Calle 130 N°571,+595 907 595 464,cliente130@clinica.com.py,2001-01-10,Asunción
+C007,Pedro López,Calle 131 N°162,+595 964 441 599,cliente131@clinica.com.py,2003-08-08,Asunción
+C115,Miguel Álvarez,Calle 132 N°238,+595 916 610 426,cliente132@clinica.com.py,1978-07-03,Capiatá
+C400,Ana Martínez,Calle 133 N°598,+595 988 400 231,cliente133@clinica.com.py,2000-06-04,Luque
+C456,Lucía Morales,Calle 134 N°692,+595 935 169 351,cliente134@clinica.com.py,1984-11-08,Capiatá
+C515,Luis Ramírez,Calle 135 N°491,+595 930 886 544,cliente135@clinica.com.py,1991-11-03,Luque
+C013,María Fernández,Calle 136 N°774,+595 953 266 190,cliente136@clinica.com.py,2001-09-11,Luque
+C589,Ana Martínez,Calle 137 N°518,+595 973 957 630,cliente137@clinica.com.py,1997-09-01,Capiatá
+C486,María Fernández,Calle 138 N°388,+595 938 225 550,cliente138@clinica.com.py,1993-09-26,Asunción
+C249,María Fernández,Calle 139 N°478,+595 944 752 853,cliente139@clinica.com.py,1979-06-15,Asunción
+C518,Ana Martínez,Calle 140 N°872,+595 991 737 157,cliente140@clinica.com.py,1995-08-30,Asunción
+C109,Sofía Pérez,Calle 141 N°589,+595 919 575 555,cliente141@clinica.com.py,1994-04-20,Fernando de la Mora
+C399,José Torres,Calle 142 N°330,+595 960 994 460,cliente142@clinica.com.py,2004-02-01,Fernando de la Mora
+C010,Lucía Morales,Calle 143 N°140,+595 938 100 486,cliente143@clinica.com.py,1981-08-15,Asunción
+C244,Pedro López,Calle 144 N°127,+595 976 447 289,cliente144@clinica.com.py,1978-04-06,Luque
+C228,Pedro López,Calle 145 N°234,+595 962 607 468,cliente145@clinica.com.py,1995-08-09,Fernando de la Mora
+C177,Lucía Morales,Calle 146 N°300,+595 924 923 216,cliente146@clinica.com.py,1990-12-05,Asunción
+C148,Sofía Pérez,Calle 147 N°939,+595 905 157 655,cliente147@clinica.com.py,1991-04-25,Asunción
+C005,Pedro López,Calle 148 N°879,+595 944 771 272,cliente148@clinica.com.py,1976-07-16,Fernando de la Mora
+C191,María Fernández,Calle 149 N°132,+595 960 914 248,cliente149@clinica.com.py,1983-09-25,Asunción
+C591,Valentina Díaz,Calle 150 N°147,+595 979 985 312,cliente150@clinica.com.py,1974-06-08,Luque
+C364,Luis Ramírez,Calle 151 N°602,+595 974 863 328,cliente151@clinica.com.py,2001-05-28,Asunción
+C304,Carlos González,Calle 152 N°506,+595 935 326 758,cliente152@clinica.com.py,1993-06-09,Fernando de la Mora
+C532,Pedro López,Calle 153 N°673,+595 919 540 501,cliente153@clinica.com.py,1991-01-20,Fernando de la Mora
+C197,Lucía Morales,Calle 154 N°827,+595 946 332 404,cliente154@clinica.com.py,1979-12-12,Fernando de la Mora
+C452,Valentina Díaz,Calle 155 N°904,+595 913 242 514,cliente155@clinica.com.py,1975-04-12,Asunción
+C465,Ana Martínez,Calle 156 N°198,+595 900 472 665,cliente156@clinica.com.py,1998-02-12,Capiatá
+C267,José Torres,Calle 157 N°783,+595 902 755 570,cliente157@clinica.com.py,2002-02-08,Capiatá
+C059,Lucía Morales,Calle 158 N°971,+595 956 111 429,cliente158@clinica.com.py,1977-05-25,Asunción
+C112,María Fernández,Calle 159 N°825,+595 995 883 457,cliente159@clinica.com.py,1989-03-13,Capiatá
+C296,José Torres,Calle 160 N°646,+595 975 507 767,cliente160@clinica.com.py,1976-07-31,Asunción
+C307,Luis Ramírez,Calle 161 N°838,+595 907 221 447,cliente161@clinica.com.py,1982-11-06,Asunción
+C393,Luis Ramírez,Calle 162 N°712,+595 935 189 747,cliente162@clinica.com.py,1975-05-27,Asunción
+C401,Sofía Pérez,Calle 163 N°561,+595 957 415 277,cliente163@clinica.com.py,1993-06-29,Asunción
+C178,Miguel Álvarez,Calle 164 N°742,+595 927 831 968,cliente164@clinica.com.py,1988-01-07,Asunción
+C380,Sofía Pérez,Calle 165 N°868,+595 940 839 803,cliente165@clinica.com.py,1976-05-13,Luque
+C116,Valentina Díaz,Calle 166 N°104,+595 926 601 244,cliente166@clinica.com.py,1981-01-26,Asunción
+C526,José Torres,Calle 167 N°317,+595 972 823 560,cliente167@clinica.com.py,1990-09-21,Luque
+C163,Miguel Álvarez,Calle 168 N°602,+595 991 851 657,cliente168@clinica.com.py,1992-03-07,Asunción
+C427,Ana Martínez,Calle 169 N°866,+595 934 352 489,cliente169@clinica.com.py,1999-12-17,Asunción
+C208,María Fernández,Calle 170 N°497,+595 981 982 355,cliente170@clinica.com.py,2002-09-13,Asunción
+C381,José Torres,Calle 171 N°970,+595 968 914 549,cliente171@clinica.com.py,1991-06-30,Capiatá
+C192,Sofía Pérez,Calle 172 N°894,+595 909 923 897,cliente172@clinica.com.py,2003-07-27,Asunción
+C482,Carlos González,Calle 173 N°492,+595 904 218 900,cliente173@clinica.com.py,2001-03-24,Luque
+C235,Miguel Álvarez,Calle 174 N°306,+595 964 245 323,cliente174@clinica.com.py,1984-06-01,Capiatá
+C498,Miguel Álvarez,Calle 175 N°114,+595 948 878 952,cliente175@clinica.com.py,1983-07-13,Luque
+C356,María Fernández,Calle 176 N°957,+595 925 162 316,cliente176@clinica.com.py,1990-12-27,Asunción
+C086,Pedro López,Calle 177 N°653,+595 985 926 894,cliente177@clinica.com.py,1981-08-13,Asunción
+C118,Luis Ramírez,Calle 178 N°991,+595 948 560 709,cliente178@clinica.com.py,1992-06-09,Capiatá
+C258,Luis Ramírez,Calle 179 N°560,+595 998 610 484,cliente179@clinica.com.py,1982-10-17,Asunción
+C496,Carlos González,Calle 180 N°790,+595 920 922 617,cliente180@clinica.com.py,1981-01-07,Capiatá
+C537,Valentina Díaz,Calle 181 N°674,+595 991 808 962,cliente181@clinica.com.py,1996-11-19,Asunción
+C288,Valentina Díaz,Calle 182 N°963,+595 904 969 870,cliente182@clinica.com.py,2004-09-04,Fernando de la Mora
+C140,Ana Martínez,Calle 183 N°842,+595 952 122 664,cliente183@clinica.com.py,1983-03-31,Capiatá
+C562,José Torres,Calle 184 N°340,+595 936 813 557,cliente184@clinica.com.py,1980-07-04,Fernando de la Mora
+C433,Lucía Morales,Calle 185 N°663,+595 982 244 184,cliente185@clinica.com.py,1988-05-01,Asunción
+C550,Pedro López,Calle 186 N°195,+595 977 556 977,cliente186@clinica.com.py,2001-02-24,Capiatá
+C344,Sofía Pérez,Calle 187 N°833,+595 900 150 784,cliente187@clinica.com.py,1986-08-26,Asunción
+C474,Lucía Morales,Calle 188 N°584,+595 976 871 545,cliente188@clinica.com.py,1990-01-29,Asunción
+C057,Lucía Morales,Calle 189 N°506,+595 964 980 587,cliente189@clinica.com.py,1994-04-13,Luque
+C489,Miguel Álvarez,Calle 190 N°330,+595 931 133 447,cliente190@clinica.com.py,1985-12-10,Capiatá
+C557,Carlos González,Calle 191 N°848,+595 994 171 650,cliente191@clinica.com.py,1975-06-17,Fernando de la Mora
+C176,Luis Ramírez,Calle 192 N°754,+595 925 349 773,cliente192@clinica.com.py,1998-07-11,Capiatá
+C441,Ana Martínez,Calle 193 N°270,+595 953 217 870,cliente193@clinica.com.py,1984-05-29,Asunción
+C504,Valentina Díaz,Calle 194 N°640,+595 949 367 153,cliente194@clinica.com.py,1990-11-09,Asunción
+C074,Carlos González,Calle 195 N°135,+595 904 833 862,cliente195@clinica.com.py,2004-03-10,Luque
+C337,Miguel Álvarez,Calle 196 N°624,+595 956 500 723,cliente196@clinica.com.py,1983-01-10,Asunción
+C180,Sofía Pérez,Calle 197 N°259,+595 946 306 328,cliente197@clinica.com.py,1986-12-29,Asunción
+C579,Ana Martínez,Calle 198 N°938,+595 984 677 174,cliente198@clinica.com.py,1981-04-12,Asunción
+C113,Miguel Álvarez,Calle 199 N°798,+595 950 202 521,cliente199@clinica.com.py,1992-09-25,Asunción
+C289,Luis Ramírez,Calle 200 N°342,+595 963 863 837,cliente200@clinica.com.py,1979-11-13,Asunción
+C269,Luis Ramírez,Calle 201 N°185,+595 937 405 197,cliente201@clinica.com.py,1986-09-17,Asunción
+C143,Luis Ramírez,Calle 202 N°895,+595 981 897 434,cliente202@clinica.com.py,1998-02-28,Asunción
+C473,Carlos González,Calle 203 N°677,+595 990 534 546,cliente203@clinica.com.py,1978-03-12,Asunción
+C454,Carlos González,Calle 204 N°781,+595 997 407 348,cliente204@clinica.com.py,1994-06-28,Fernando de la Mora
+C306,Valentina Díaz,Calle 205 N°656,+595 937 580 434,cliente205@clinica.com.py,1987-01-16,Asunción
+C184,Valentina Díaz,Calle 206 N°673,+595 929 858 205,cliente206@clinica.com.py,1986-12-12,Asunción
+C141,Sofía Pérez,Calle 207 N°745,+595 950 180 232,cliente207@clinica.com.py,1984-07-24,Luque
+C162,Ana Martínez,Calle 208 N°895,+595 928 237 283,cliente208@clinica.com.py,1973-10-24,Asunción
+C241,María Fernández,Calle 209 N°127,+595 916 429 884,cliente209@clinica.com.py,2001-11-08,Fernando de la Mora
+C225,María Fernández,Calle 210 N°719,+595 983 168 645,cliente210@clinica.com.py,1997-03-17,Capiatá
+C555,Miguel Álvarez,Calle 211 N°655,+595 905 152 549,cliente211@clinica.com.py,1992-06-26,Asunción
+C437,Luis Ramírez,Calle 212 N°439,+595 976 225 846,cliente212@clinica.com.py,1992-05-13,Asunción
+C553,Ana Martínez,Calle 213 N°897,+595 942 851 982,cliente213@clinica.com.py,1999-04-10,Capiatá
+C455,Lucía Morales,Calle 214 N°430,+595 922 282 947,cliente214@clinica.com.py,1995-01-05,Fernando de la Mora
+C253,Carlos González,Calle 215 N°739,+595 994 473 619,cliente215@clinica.com.py,1981-12-23,Asunción
+C016,José Torres,Calle 216 N°605,+595 903 459 795,cliente216@clinica.com.py,1994-01-24,Luque
+C314,Pedro López,Calle 217 N°447,+595 924 294 963,cliente217@clinica.com.py,1976-05-18,Asunción
+C036,Sofía Pérez,Calle 218 N°572,+595 966 766 192,cliente218@clinica.com.py,1989-08-19,Fernando de la Mora
+C034,Luis Ramírez,Calle 219 N°330,+595 931 160 733,cliente219@clinica.com.py,2003-03-03,Asunción
+C508,Luis Ramírez,Calle 220 N°289,+595 950 502 888,cliente220@clinica.com.py,1987-10-03,Fernando de la Mora
+C092,Luis Ramírez,Calle 221 N°324,+595 904 565 703,cliente221@clinica.com.py,1974-11-08,Luque
+C082,Carlos González,Calle 222 N°484,+595 941 928 633,cliente222@clinica.com.py,1976-11-24,Luque
+C265,Carlos González,Calle 223 N°476,+595 920 937 612,cliente223@clinica.com.py,1993-08-03,Asunción
+C041,Pedro López,Calle 224 N°382,+595 904 332 623,cliente224@clinica.com.py,1986-02-20,Asunción
+C147,Lucía Morales,Calle 225 N°732,+595 989 145 645,cliente225@clinica.com.py,2001-09-30,Asunción
+C047,Ana Martínez,Calle 226 N°727,+595 948 177 829,cliente226@clinica.com.py,1975-05-10,Asunción
+C443,Luis Ramírez,Calle 227 N°844,+595 944 172 893,cliente227@clinica.com.py,1985-06-17,Asunción
+C395,María Fernández,Calle 228 N°358,+595 946 220 313,cliente228@clinica.com.py,2002-02-10,Capiatá
+C535,Valentina Díaz,Calle 229 N°458,+595 955 449 206,cliente229@clinica.com.py,2002-11-11,Asunción
+C015,María Fernández,Calle 230 N°809,+595 962 147 672,cliente230@clinica.com.py,1997-11-11,Asunción
+C316,Miguel Álvarez,Calle 231 N°555,+595 980 125 903,cliente231@clinica.com.py,1986-03-26,Fernando de la Mora
+C312,María Fernández,Calle 232 N°510,+595 900 107 724,cliente232@clinica.com.py,1980-04-14,Capiatá
+C096,Miguel Álvarez,Calle 233 N°748,+595 998 352 791,cliente233@clinica.com.py,1990-12-06,Fernando de la Mora
+C252,José Torres,Calle 234 N°417,+595 978 402 738,cliente234@clinica.com.py,1997-04-28,Fernando de la Mora
+C039,Valentina Díaz,Calle 235 N°776,+595 955 825 625,cliente235@clinica.com.py,1992-05-02,Asunción
+C160,María Fernández,Calle 236 N°324,+595 989 127 177,cliente236@clinica.com.py,1980-11-16,Asunción
+C073,José Torres,Calle 237 N°918,+595 987 485 464,cliente237@clinica.com.py,1981-09-15,Capiatá
+C536,Sofía Pérez,Calle 238 N°333,+595 925 625 798,cliente238@clinica.com.py,1975-07-09,Luque
+C072,Ana Martínez,Calle 239 N°783,+595 955 982 106,cliente239@clinica.com.py,1979-08-26,Asunción
+C179,José Torres,Calle 240 N°763,+595 902 722 849,cliente240@clinica.com.py,2001-10-28,Capiatá
+C396,Ana Martínez,Calle 241 N°926,+595 917 605 905,cliente241@clinica.com.py,2000-07-22,Asunción
+C042,María Fernández,Calle 242 N°473,+595 998 982 114,cliente242@clinica.com.py,1992-03-19,Asunción
+C255,Lucía Morales,Calle 243 N°771,+595 963 730 584,cliente243@clinica.com.py,1975-05-16,Asunción
+C129,José Torres,Calle 244 N°707,+595 927 813 138,cliente244@clinica.com.py,1982-09-18,Asunción
+C077,Valentina Díaz,Calle 245 N°571,+595 956 372 330,cliente245@clinica.com.py,1978-01-06,Asunción
+C513,María Fernández,Calle 246 N°332,+595 985 573 225,cliente246@clinica.com.py,2004-04-03,Asunción
+C201,Luis Ramírez,Calle 247 N°791,+595 943 636 244,cliente247@clinica.com.py,1987-10-06,Capiatá
+C136,Carlos González,Calle 248 N°212,+595 912 311 124,cliente248@clinica.com.py,2002-09-05,Asunción
+C397,José Torres,Calle 249 N°929,+595 967 493 166,cliente249@clinica.com.py,1984-06-05,Asunción
+C087,Valentina Díaz,Calle 250 N°596,+595 917 210 327,cliente250@clinica.com.py,1975-11-28,Capiatá
+C239,Sofía Pérez,Calle 251 N°541,+595 985 133 722,cliente251@clinica.com.py,1984-04-13,Fernando de la Mora
+C411,Luis Ramírez,Calle 252 N°663,+595 907 468 847,cliente252@clinica.com.py,1978-06-16,Capiatá
+C464,Sofía Pérez,Calle 253 N°367,+595 982 653 524,cliente253@clinica.com.py,2004-06-14,Capiatá
+C216,María Fernández,Calle 254 N°609,+595 905 791 381,cliente254@clinica.com.py,1992-07-03,Luque
+C171,Carlos González,Calle 255 N°906,+595 963 837 542,cliente255@clinica.com.py,1991-09-15,Asunción
+C055,José Torres,Calle 256 N°485,+595 955 414 976,cliente256@clinica.com.py,1998-12-23,Asunción
+C451,José Torres,Calle 257 N°486,+595 969 840 476,cliente257@clinica.com.py,1991-04-07,Asunción
+C370,Lucía Morales,Calle 258 N°212,+595 932 536 761,cliente258@clinica.com.py,1975-01-11,Asunción
+C093,Lucía Morales,Calle 259 N°712,+595 920 809 681,cliente259@clinica.com.py,1995-07-26,Asunción
+C064,María Fernández,Calle 260 N°724,+595 903 449 942,cliente260@clinica.com.py,1982-02-22,Luque
+C594,María Fernández,Calle 261 N°180,+595 961 929 449,cliente261@clinica.com.py,1974-08-27,Asunción
+C475,Carlos González,Calle 262 N°798,+595 994 763 922,cliente262@clinica.com.py,1985-05-04,Asunción
+C444,Lucía Morales,Calle 263 N°212,+595 908 858 998,cliente263@clinica.com.py,1997-05-22,Asunción
+C376,Valentina Díaz,Calle 264 N°101,+595 930 139 328,cliente264@clinica.com.py,2001-11-18,Luque
+C318,Valentina Díaz,Calle 265 N°741,+595 935 322 105,cliente265@clinica.com.py,2003-05-06,Asunción
+C548,Carlos González,Calle 266 N°319,+595 965 567 831,cliente266@clinica.com.py,1984-01-26,Capiatá
+C321,Valentina Díaz,Calle 267 N°665,+595 974 103 946,cliente267@clinica.com.py,1996-05-17,Asunción
+C413,Miguel Álvarez,Calle 268 N°954,+595 905 217 980,cliente268@clinica.com.py,2002-09-26,Asunción
+C155,Ana Martínez,Calle 269 N°835,+595 993 603 673,cliente269@clinica.com.py,1988-11-16,Asunción
+C003,Carlos González,Calle 270 N°324,+595 956 293 946,cliente270@clinica.com.py,1988-10-16,Capiatá
+C052,Carlos González,Calle 271 N°484,+595 974 491 125,cliente271@clinica.com.py,1995-08-05,Asunción
+C168,Pedro López,Calle 272 N°502,+595 950 272 399,cliente272@clinica.com.py,1992-10-25,Luque
+C442,Luis Ramírez,Calle 273 N°737,+595 904 425 509,cliente273@clinica.com.py,1998-06-28,Asunción
+C169,Luis Ramírez,Calle 274 N°229,+595 967 886 823,cliente274@clinica.com.py,1992-02-16,Asunción
+C320,Miguel Álvarez,Calle 275 N°152,+595 996 631 212,cliente275@clinica.com.py,1986-08-10,Capiatá
+C545,Lucía Morales,Calle 276 N°783,+595 911 658 100,cliente276@clinica.com.py,1975-05-17,Capiatá
+C540,María Fernández,Calle 277 N°829,+595 989 753 419,cliente277@clinica.com.py,1993-11-14,Luque
+C009,María Fernández,Calle 278 N°771,+595 937 904 993,cliente278@clinica.com.py,1976-06-28,Capiatá
+C291,Sofía Pérez,Calle 279 N°809,+595 910 610 967,cliente279@clinica.com.py,1990-02-09,Capiatá
+C277,Miguel Álvarez,Calle 280 N°515,+595 976 358 772,cliente280@clinica.com.py,1982-02-06,Luque
+C158,Carlos González,Calle 281 N°346,+595 905 789 109,cliente281@clinica.com.py,1985-09-24,Capiatá
+C398,Miguel Álvarez,Calle 282 N°935,+595 904 749 271,cliente282@clinica.com.py,1977-01-29,Luque
+C132,Miguel Álvarez,Calle 283 N°538,+595 901 112 267,cliente283@clinica.com.py,1999-08-05,Luque
+C317,Miguel Álvarez,Calle 284 N°302,+595 901 695 420,cliente284@clinica.com.py,1976-11-03,Luque
+C305,Luis Ramírez,Calle 285 N°283,+595 962 712 428,cliente285@clinica.com.py,1978-03-09,Capiatá
+C146,Miguel Álvarez,Calle 286 N°222,+595 916 876 649,cliente286@clinica.com.py,1976-03-30,Asunción
+C071,Ana Martínez,Calle 287 N°500,+595 934 705 194,cliente287@clinica.com.py,1987-02-22,Capiatá
+C578,María Fernández,Calle 288 N°866,+595 948 680 417,cliente288@clinica.com.py,1983-06-27,Capiatá
+C479,Sofía Pérez,Calle 289 N°393,+595 959 335 433,cliente289@clinica.com.py,1993-01-16,Asunción
+C185,Ana Martínez,Calle 290 N°379,+595 974 236 687,cliente290@clinica.com.py,1998-02-13,Capiatá
+C282,Sofía Pérez,Calle 291 N°936,+595 998 646 612,cliente291@clinica.com.py,1979-08-10,Asunción
+C568,Pedro López,Calle 292 N°983,+595 939 419 671,cliente292@clinica.com.py,1995-04-09,Asunción
+C157,Sofía Pérez,Calle 293 N°709,+595 963 448 939,cliente293@clinica.com.py,2003-12-29,Luque
+C561,María Fernández,Calle 294 N°297,+595 910 972 328,cliente294@clinica.com.py,1989-03-28,Asunción
+C386,María Fernández,Calle 295 N°610,+595 913 927 897,cliente295@clinica.com.py,1997-01-07,Capiatá
+C500,Miguel Álvarez,Calle 296 N°851,+595 934 824 264,cliente296@clinica.com.py,1982-12-22,Capiatá
+C585,José Torres,Calle 297 N°243,+595 904 950 478,cliente297@clinica.com.py,1999-01-18,Asunción
+C027,Pedro López,Calle 298 N°708,+595 977 509 673,cliente298@clinica.com.py,1988-10-29,Asunción
+C284,Carlos González,Calle 299 N°300,+595 903 700 848,cliente299@clinica.com.py,2003-10-25,Asunción
+C497,Valentina Díaz,Calle 300 N°223,+595 941 188 501,cliente300@clinica.com.py,1999-03-12,Luque
+C385,Sofía Pérez,Calle 301 N°286,+595 939 939 394,cliente301@clinica.com.py,1980-01-24,Fernando de la Mora
+C172,José Torres,Calle 302 N°425,+595 913 899 790,cliente302@clinica.com.py,1973-10-29,Luque
+C325,Miguel Álvarez,Calle 303 N°563,+595 937 964 122,cliente303@clinica.com.py,2001-01-19,Asunción
+C534,Luis Ramírez,Calle 304 N°448,+595 962 242 764,cliente304@clinica.com.py,1984-04-27,Luque
+C293,Carlos González,Calle 305 N°870,+595 916 324 602,cliente305@clinica.com.py,1998-12-08,Asunción
+C186,Lucía Morales,Calle 306 N°759,+595 965 920 715,cliente306@clinica.com.py,2004-04-09,Capiatá
+C365,José Torres,Calle 307 N°863,+595 950 138 297,cliente307@clinica.com.py,1992-01-03,Asunción
+C251,Luis Ramírez,Calle 308 N°502,+595 905 678 490,cliente308@clinica.com.py,1999-07-21,Capiatá
+C353,Pedro López,Calle 309 N°445,+595 950 653 547,cliente309@clinica.com.py,1997-01-18,Asunción
+C062,Miguel Álvarez,Calle 310 N°610,+595 914 722 768,cliente310@clinica.com.py,2004-05-20,Fernando de la Mora
+C480,Carlos González,Calle 311 N°246,+595 932 577 330,cliente311@clinica.com.py,2002-02-27,Asunción
+C124,Carlos González,Calle 312 N°247,+595 926 519 256,cliente312@clinica.com.py,2001-03-15,Luque
+C447,Carlos González,Calle 313 N°963,+595 937 540 196,cliente313@clinica.com.py,1979-06-10,Fernando de la Mora
+C551,Pedro López,Calle 314 N°810,+595 926 388 353,cliente314@clinica.com.py,2003-04-19,Asunción
+C439,Sofía Pérez,Calle 315 N°919,+595 967 697 933,cliente315@clinica.com.py,1998-06-09,Fernando de la Mora
+C430,Lucía Morales,Calle 316 N°588,+595 909 616 734,cliente316@clinica.com.py,1998-04-14,Luque
+C123,Pedro López,Calle 317 N°739,+595 973 964 217,cliente317@clinica.com.py,1978-03-19,Asunción
+C394,Valentina Díaz,Calle 318 N°650,+595 937 258 914,cliente318@clinica.com.py,1993-09-07,Asunción
+C458,Lucía Morales,Calle 319 N°437,+595 987 795 114,cliente319@clinica.com.py,1997-07-26,Luque
+C507,María Fernández,Calle 320 N°971,+595 928 747 360,cliente320@clinica.com.py,1986-10-30,Asunción
+C429,Miguel Álvarez,Calle 321 N°740,+595 928 146 423,cliente321@clinica.com.py,1982-02-20,Asunción
+C527,Pedro López,Calle 322 N°878,+595 975 784 229,cliente322@clinica.com.py,1984-06-03,Asunción
+C590,Luis Ramírez,Calle 323 N°572,+595 926 194 726,cliente323@clinica.com.py,1988-02-09,Luque
+C033,Lucía Morales,Calle 324 N°250,+595 935 391 893,cliente324@clinica.com.py,1987-01-30,Asunción
+C194,Valentina Díaz,Calle 325 N°514,+595 942 382 168,cliente325@clinica.com.py,2003-04-20,Capiatá
+C250,María Fernández,Calle 326 N°397,+595 919 110 353,cliente326@clinica.com.py,1976-07-17,Fernando de la Mora
+C266,Sofía Pérez,Calle 327 N°710,+595 973 971 649,cliente327@clinica.com.py,1984-04-08,Fernando de la Mora
+C206,Luis Ramírez,Calle 328 N°362,+595 905 811 122,cliente328@clinica.com.py,2000-03-04,Luque
+C372,Lucía Morales,Calle 329 N°863,+595 946 445 401,cliente329@clinica.com.py,2003-10-05,Asunción
+C031,Miguel Álvarez,Calle 330 N°243,+595 911 317 240,cliente330@clinica.com.py,1984-12-31,Capiatá
+C025,Luis Ramírez,Calle 331 N°445,+595 961 309 722,cliente331@clinica.com.py,2004-04-19,Asunción
+C193,María Fernández,Calle 332 N°723,+595 959 782 559,cliente332@clinica.com.py,1986-01-09,Asunción
+C128,Luis Ramírez,Calle 333 N°671,+595 967 232 987,cliente333@clinica.com.py,1992-12-17,Asunción
+C358,Ana Martínez,Calle 334 N°980,+595 936 939 226,cliente334@clinica.com.py,1984-10-03,Asunción
+C383,José Torres,Calle 335 N°101,+595 991 898 477,cliente335@clinica.com.py,1990-08-04,Capiatá
+C423,Sofía Pérez,Calle 336 N°996,+595 908 150 128,cliente336@clinica.com.py,1973-12-18,Luque
+C377,María Fernández,Calle 337 N°403,+595 977 395 396,cliente337@clinica.com.py,1974-06-12,Asunción
+C582,Luis Ramírez,Calle 338 N°353,+595 985 878 506,cliente338@clinica.com.py,1975-03-02,Asunción
+C145,José Torres,Calle 339 N°751,+595 900 913 712,cliente339@clinica.com.py,2004-01-06,Fernando de la Mora
+C133,José Torres,Calle 340 N°552,+595 920 445 721,cliente340@clinica.com.py,1979-01-28,Asunción
+C363,Luis Ramírez,Calle 341 N°136,+595 935 281 924,cliente341@clinica.com.py,1987-05-02,Asunción
+C065,Miguel Álvarez,Calle 342 N°259,+595 900 930 666,cliente342@clinica.com.py,1979-09-11,Asunción
+C189,Ana Martínez,Calle 343 N°108,+595 939 760 530,cliente343@clinica.com.py,1985-04-21,Capiatá
+C494,Pedro López,Calle 344 N°332,+595 972 408 236,cliente344@clinica.com.py,1974-09-12,Luque
+C070,Ana Martínez,Calle 345 N°198,+595 973 535 412,cliente345@clinica.com.py,2003-03-05,Asunción
+C195,Luis Ramírez,Calle 346 N°758,+595 925 902 674,cliente346@clinica.com.py,1998-09-24,Asunción
+C050,Sofía Pérez,Calle 347 N°915,+595 924 701 174,cliente347@clinica.com.py,1976-12-05,Luque
+C390,Pedro López,Calle 348 N°307,+595 937 485 309,cliente348@clinica.com.py,1997-03-01,Luque
+C022,María Fernández,Calle 349 N°230,+595 990 517 446,cliente349@clinica.com.py,1974-02-14,Asunción
+C164,Ana Martínez,Calle 350 N°503,+595 916 739 975,cliente350@clinica.com.py,1999-12-16,Fernando de la Mora
+C254,Luis Ramírez,Calle 351 N°251,+595 950 281 763,cliente351@clinica.com.py,1992-05-25,Asunción
+C274,Ana Martínez,Calle 352 N°153,+595 924 279 809,cliente352@clinica.com.py,1990-04-28,Asunción
+C165,Pedro López,Calle 353 N°219,+595 987 260 276,cliente353@clinica.com.py,1984-05-12,Fernando de la Mora
+C468,Valentina Díaz,Calle 354 N°772,+595 928 162 761,cliente354@clinica.com.py,1995-12-26,Asunción
+C587,Lucía Morales,Calle 355 N°727,+595 925 255 981,cliente355@clinica.com.py,2002-11-22,Luque
+C067,Ana Martínez,Calle 356 N°686,+595 984 148 948,cliente356@clinica.com.py,1973-12-23,Asunción
+C299,María Fernández,Calle 357 N°724,+595 983 460 788,cliente357@clinica.com.py,1989-11-24,Asunción
+C004,María Fernández,Calle 358 N°519,+595 919 729 441,cliente358@clinica.com.py,1974-12-20,Fernando de la Mora
+C369,Carlos González,Calle 359 N°521,+595 991 162 800,cliente359@clinica.com.py,1994-08-29,Asunción
+C130,Ana Martínez,Calle 360 N°203,+595 948 426 868,cliente360@clinica.com.py,1987-07-03,Capiatá
+C144,Lucía Morales,Calle 361 N°951,+595 995 240 314,cliente361@clinica.com.py,1998-01-13,Asunción
+C419,Miguel Álvarez,Calle 362 N°353,+595 950 990 822,cliente362@clinica.com.py,1987-02-10,Asunción
+C175,José Torres,Calle 363 N°326,+595 961 131 769,cliente363@clinica.com.py,2002-07-22,Asunción
+C098,Lucía Morales,Calle 364 N°211,+595 928 404 528,cliente364@clinica.com.py,1983-04-09,Luque
+C445,José Torres,Calle 365 N°609,+595 992 385 243,cliente365@clinica.com.py,1975-07-11,Asunción
+C198,José Torres,Calle 366 N°572,+595 939 118 117,cliente366@clinica.com.py,1980-01-31,Capiatá
+C564,Valentina Díaz,Calle 367 N°198,+595 900 689 470,cliente367@clinica.com.py,1978-07-25,Asunción
+C514,Carlos González,Calle 368 N°252,+595 946 293 601,cliente368@clinica.com.py,1977-07-30,Fernando de la Mora
+C134,Lucía Morales,Calle 369 N°960,+595 991 212 213,cliente369@clinica.com.py,1978-07-09,Asunción
+C212,Lucía Morales,Calle 370 N°995,+595 993 777 930,cliente370@clinica.com.py,1990-03-24,Capiatá
+C044,Valentina Díaz,Calle 371 N°977,+595 903 996 363,cliente371@clinica.com.py,1980-11-13,Capiatá
+C596,Ana Martínez,Calle 372 N°437,+595 928 154 970,cliente372@clinica.com.py,1990-12-31,Capiatá
+C450,Ana Martínez,Calle 373 N°805,+595 902 899 877,cliente373@clinica.com.py,2000-09-16,Capiatá

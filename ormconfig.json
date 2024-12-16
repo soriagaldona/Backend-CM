@@ -1,0 +1,20 @@
+{
+    "type": "mssql",
+    "host": "tu-servidor.database.windows.net",
+    "port": 1433,
+    "username": "tu-usuario",
+    "password": "tu-contraseña",
+    "database": "tu-base-de-datos",
+    "entities": ["src/models/**/*.ts"],
+    "migrations": ["src/migration/**/*.ts"],
+    "cli": {
+      "entitiesDir": "src/models",
+      "migrationsDir": "src/migration"
+    },
+    "synchronize": true,
+    "logging": false,
+    "options": {
+      "encrypt": true
+    }
+  }
+  
