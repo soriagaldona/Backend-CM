@@ -4,6 +4,8 @@ import jwt from "jsonwebtoken";
 import { AppDataSource } from "../utils/data-source";
 import { Auth } from "../models/auth.model";
 
+
+const authRepository = AppDataSource.getRepository(Auth);
 /**
  * Registers a new user in the authentication service.
  *
@@ -75,4 +77,27 @@ export const loginAuthService = async (data: { correo: string; password: string 
   );
 
   return token;
+};
+
+export const resetPasswordService = async (
+  userId: number,
+  currentPassword: string,
+  newPassword: string
+): Promise<void> => {
+  const user = await authRepository.findOneBy({ UsuarioID: userId });
+  
+  if (!user) {
+      throw new Error("Usuario no encontrado");
+  }
+
+  // Verify current password
+  const isValidPassword = await bcrypt.compare(currentPassword, user.password);
+  if (!isValidPassword) {
+      throw new Error("Contraseña actual incorrecta");
+  }
+
+  // Hash and save new password
+  const hashedPassword = await bcrypt.hash(newPassword, 10);
+  user.password = hashedPassword;
+  await authRepository.save(user);
 };

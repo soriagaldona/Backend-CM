@@ -1,19 +1,39 @@
-// ./src/middleware/authMiddleware.ts
+import { Request, Response, NextFunction, RequestHandler } from "express";
+import jwt from "jsonwebtoken";
 
-import { Request, Response, NextFunction } from 'express';
+export interface AuthRequest extends Request {
+    user?: {
+        id: number;
+        correo: string;
+        rol: number;
+    }
+}
 
-/**
- * Middleware de autenticación.
- *
- * Esta función middleware se utiliza para manejar la autenticación en las rutas.
- * Si no se necesita autenticar la ruta, simplemente llama a `next()` para pasar
- * al siguiente middleware o controlador.
- *
- * @param req - El objeto de solicitud HTTP.
- * @param res - El objeto de respuesta HTTP.
- * @param next - La función que se llama para pasar al siguiente middleware.
- */
-export const authMiddleware = (req: Request, res: Response, next: NextFunction): void => {
-  // Si no necesitas autenticar esta ruta, simplemente llama a next()
-  next();
+export const authMiddleware: RequestHandler = async (
+    req: AuthRequest,
+    res: Response,
+    next: NextFunction
+): Promise<void> => {
+    try {
+        const authHeader = req.headers.authorization;
+
+        if (!authHeader) {
+            res.status(401).json({ message: "No token provided" });
+            return;
+        }
+
+        const token = authHeader.split(" ")[1];
+
+        const decoded = jwt.verify(token, process.env.JWT_SECRET || 'dev_secret_key_123') as {
+            id: number;
+            correo: string;
+            rol: number;
+        };
+
+        req.user = decoded;
+        next();
+    } catch (error) {
+        res.status(401).json({ message: "Invalid token" });
+        // return;
+    }
 };
