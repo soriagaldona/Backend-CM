@@ -1,5 +1,7 @@
 import { Request, Response, NextFunction, RequestHandler } from "express";
 import jwt from "jsonwebtoken";
+import { JWT_SECRET } from '../utils/constants';
+
 
 export interface AuthRequest extends Request {
     user?: {
@@ -24,7 +26,7 @@ export const authMiddleware: RequestHandler = async (
 
         const token = authHeader.split(" ")[1];
 
-        const decoded = jwt.verify(token, process.env.JWT_SECRET || 'dev_secret_key_123') as {
+        const decoded = jwt.verify(token, JWT_SECRET) as {
             id: number;
             correo: string;
             rol: number;

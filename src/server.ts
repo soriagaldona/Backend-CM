@@ -1,9 +1,8 @@
 import dotenv from "dotenv";
-import { AppDataSource } from "./utils/data-source";
-import app from './app';
-
 dotenv.config();
 
+import { AppDataSource } from "./utils/data-source";
+import app from './app';
 
 const PORT = process.env.PORT || 8000;
 
@@ -11,7 +10,7 @@ const PORT = process.env.PORT || 8000;
 const startServer = async () => {
     try {
         await AppDataSource.initialize();
-        console.log("Database connected successfully");
+        console.log("Database connected successfully to:", process.env.DB_NAME);
 
         app.listen(PORT, () => {
             console.log(`Server running on http://localhost:${PORT}`);
