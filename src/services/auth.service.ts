@@ -1,5 +1,6 @@
 // ./src/services/auth.service.ts
 import bcrypt from "bcryptjs";
+import { JWT_SECRET } from '../utils/constants';
 import jwt from "jsonwebtoken";
 import { AppDataSource } from "../utils/data-source";
 import { Auth } from "../models/auth.model";
@@ -71,11 +72,10 @@ export const loginAuthService = async (data: { correo: string; password: string 
   }
 
   const token = jwt.sign(
-    { id: user.UsuarioID, correo: user.correo, rol: user.rol }, // Usa UsuarioID correctamente
-    process.env.JWT_SECRET || "secret",
+    { id: user.UsuarioID, correo: user.correo, rol: user.rol },
+    JWT_SECRET,
     { expiresIn: "1h" }
   );
-
   return token;
 };
 
