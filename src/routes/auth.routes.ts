@@ -1,6 +1,7 @@
 // ./src/routes/auth.routes.ts
 import { Router } from "express";
-import { registerAuth, loginAuth } from "../controllers/auth.controller";
+import { registerAuth, loginAuth, resetPassword } from "../controllers/auth.controller";
+import { authMiddleware } from "../middleware/auth.middleware";
 
 /**
  * Creates a new instance of the Router.
@@ -10,10 +11,7 @@ const router = Router();
 
 router.post("/register", registerAuth);
 router.post("/login", loginAuth);
+router.post("/reset-password", authMiddleware, resetPassword);
 
-// Ruta GET para /auth
-router.get("/auth", (req, res) => {
-    res.status(200).json({ message: "Auth endpoint is working!" });
-});
 
 export default router;

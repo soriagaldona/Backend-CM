@@ -1,17 +1,25 @@
-// ./src/server.ts
-
 import dotenv from "dotenv";
 import { AppDataSource } from "./utils/data-source";
-import app from './app';  // Importa la instancia de app desde app.ts
+import app from './app';
 
 dotenv.config();
 
+
 const PORT = process.env.PORT || 8000;
 
-AppDataSource.initialize()
-  .then(() => {
-    app.listen(PORT, () => {
-      console.log(`Servidor corriendo en http://localhost:${PORT}`);
-    });
-  })
-  .catch((error) => console.error("Error al conectar a la base de datos:", error));
+// Initialize database and start server
+const startServer = async () => {
+    try {
+        await AppDataSource.initialize();
+        console.log("Database connected successfully");
+
+        app.listen(PORT, () => {
+            console.log(`Server running on http://localhost:${PORT}`);
+        });
+    } catch (error) {
+        console.error("Error starting server:", error);
+        process.exit(1);
+    }
+};
+
+startServer();
